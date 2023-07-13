@@ -9,6 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
+        //hi
+        
         VStack(alignment: .leading, spacing: 20.0) {Text("Hello, my name is Emma")
                 .font(.title)
                 .background(Rectangle() .foregroundColor(Color(hue: 1.0, saturation: 0.357, brightness: 0.945, opacity: 0.499)))
